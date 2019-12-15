@@ -1,0 +1,19 @@
+{
+  "name": "dev_profile_generator",
+  "version": "1.0.0",
+  "description": "Developer Profile PDF Generator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinjaGirl2018/Dev-Profile-Generator.git"
+  },
+  "author": "Ada Wan",
+  "license": "ISC",
+  "homepage": "https://github.com/ninjagirl2018/DevProfileGenerator"
+}
