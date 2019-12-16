@@ -9,5 +9,8 @@ The application then names the PDF by the name of the Github user (i.e. Ada Wan)
 
 The user story for this application is extensive, allowing the user to pull specifc data from an external source into their local environment and manipulate that data in a way that is user-friend to their specific busines requirements.
 
+Refer to:   /Assets/DevProfileGen_video.mov for a video demonstration of the application.
 
-DevProfileGenerator.mov
+The application is hosted at:  https://ninjagirl2018.github.io/DevProfileGenerator/
+
+The github repository fot his app is located at:  https://github.com/ninjagirl2018/DevProfileGenerator.git
